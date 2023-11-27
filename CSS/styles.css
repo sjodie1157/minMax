@@ -1,0 +1,15 @@
+.box {
+    color: white;
+    background-color: black;
+    width: fit-content;
+    padding: 2em;
+    border-radius: 1pc;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Courier New', Courier, monospace;
+}
